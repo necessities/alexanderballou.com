@@ -18,14 +18,17 @@
   background-color:lightblue;
   padding: 0px 0px 0px 0px;
   border-radius: 25px;
+  width: 50%;
   
-
 }
+
 .body2 {
   
   background-color:grey;
   padding: 10px 25px 10px 25px;
   border-radius: 25px;
+  width: 50%;
+  
   
 }
 .body3 {
@@ -49,13 +52,47 @@
   border-radius: 25px;
   width: 50%;
 }
+
 .body6 {
+  
+  background-color:rgb(28, 189, 28);
+  padding: 10px 25px 10px 25px;
+  border-radius: 25px;
+ 
+  
+}
+.body7 {
+  
+  background-color:rgb(32, 177, 32);
+  padding: 0px 0px 0px 0px;
+  border-radius: 25px;
+  width: 50%;
+  
+}
+.body8 {
+  
+  background-color:rgb(32, 114, 177);
+  padding: 0px 0px 0px 0px;
+  border-radius: 25px;
+  width: 50%;
+  
+}
+.body9 {
+  
+  background-color:rgb(177, 32, 121);
+  padding: 0px 0px 0px 0px;
+  border-radius: 25px;
+  width: 50%;
+  
+}
+.youtube {
   
   background-color:honeydew;
   padding: 10px 25px 10px 25px;
   border-radius: 25px;
   
 }
+
 .youtube1 {
   background-color:orange;
   padding: 0px 0px 0px 0px;
