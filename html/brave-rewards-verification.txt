@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: alexanderballou.com
-Token: 0dc3c05624cf85c326ad5e31bca71fe3da1cf11708665c40a033f53cef4dbf02
